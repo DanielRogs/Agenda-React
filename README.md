@@ -3,7 +3,7 @@
 <h4> Agenda básica desenvolvida durante capacitação da Orc'Estra (Empresa Júnior - UnB)</h4>
 
 <div align = 'center'>
-    <img height = "80" src = "src/Assets/orcLogo.png">
+    <img height = "120" src = "src/Assets/orcLogo">
 
 <br>
 <h3> Habilidades desenvolvidas: </h3>
