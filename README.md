@@ -5,7 +5,7 @@
 <div align = 'center'>
 
   <img height = "160" src = "src/Assets/orcLogo.png">
-  <img height = "160" src = "src/Assets/UnbLogo.png">
+  <img height = "120" src = "src/Assets/UnbLogo.png">
 
 </div>
 
