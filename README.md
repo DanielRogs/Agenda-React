@@ -24,7 +24,6 @@
   <img height = "80" src = "https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
   <img height = "80" src = "https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
   <img height = "65" src = "https://cdn-icons-png.flaticon.com/512/5968/5968292.png">
-  <img height = "65" src = "https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
   
 </div><br>
 
